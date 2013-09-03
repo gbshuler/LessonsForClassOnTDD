@@ -1,4 +1,4 @@
 LessonsForClassOnTDD
 ====================
 
-Proprietary Exercises For an OCI Class on Test Driver Development (Java)
+Proprietary Exercises For an OCI Class on Test Driven Development (Java)
